@@ -31,3 +31,9 @@ for number in numbers:
         above_average = above_average + 1
 
 print("This is the amount of numbers in the list that are ABOVE THE AVERAGE:", above_average)
+
+
+# ---- mini project 
+
+
+
